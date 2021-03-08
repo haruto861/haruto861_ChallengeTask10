@@ -12,8 +12,8 @@
 		F1ED7BA225E21E4C00184843 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1ED7BA125E21E4C00184843 /* ViewController.swift */; };
 		F1ED7BA725E21E4C00184843 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1ED7BA625E21E4C00184843 /* Assets.xcassets */; };
 		F1ED7BAA25E21E4C00184843 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1ED7BA825E21E4C00184843 /* LaunchScreen.storyboard */; };
-		F1ED7BB825E2452D00184843 /* prefectureTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1ED7BB625E2452D00184843 /* prefectureTableViewCell.swift */; };
-		F1ED7BB925E2452D00184843 /* prefectureTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1ED7BB725E2452D00184843 /* prefectureTableViewCell.xib */; };
+		F1ED7BB825E2452D00184843 /* PrefectureTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1ED7BB625E2452D00184843 /* PrefectureTableViewCell.swift */; };
+		F1ED7BB925E2452D00184843 /* PrefectureTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1ED7BB725E2452D00184843 /* PrefectureTableViewCell.xib */; };
 		F1ED7BBD25E245A700184843 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1ED7BBC25E245A700184843 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -25,8 +25,8 @@
 		F1ED7BA625E21E4C00184843 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1ED7BA925E21E4C00184843 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1ED7BAB25E21E4C00184843 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F1ED7BB625E2452D00184843 /* prefectureTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prefectureTableViewCell.swift; sourceTree = "<group>"; };
-		F1ED7BB725E2452D00184843 /* prefectureTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = prefectureTableViewCell.xib; sourceTree = "<group>"; };
+		F1ED7BB625E2452D00184843 /* PrefectureTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrefectureTableViewCell.swift; sourceTree = "<group>"; };
+		F1ED7BB725E2452D00184843 /* PrefectureTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PrefectureTableViewCell.xib; sourceTree = "<group>"; };
 		F1ED7BBC25E245A700184843 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,8 +63,8 @@
 				F1ED7B9D25E21E4C00184843 /* AppDelegate.swift */,
 				F1ED7B9F25E21E4C00184843 /* SceneDelegate.swift */,
 				F1ED7BA125E21E4C00184843 /* ViewController.swift */,
-				F1ED7BB625E2452D00184843 /* prefectureTableViewCell.swift */,
-				F1ED7BB725E2452D00184843 /* prefectureTableViewCell.xib */,
+				F1ED7BB625E2452D00184843 /* PrefectureTableViewCell.swift */,
+				F1ED7BB725E2452D00184843 /* PrefectureTableViewCell.xib */,
 				F1ED7BA625E21E4C00184843 /* Assets.xcassets */,
 				F1ED7BA825E21E4C00184843 /* LaunchScreen.storyboard */,
 				F1ED7BBC25E245A700184843 /* Main.storyboard */,
@@ -131,7 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1ED7BB925E2452D00184843 /* prefectureTableViewCell.xib in Resources */,
+				F1ED7BB925E2452D00184843 /* PrefectureTableViewCell.xib in Resources */,
 				F1ED7BAA25E21E4C00184843 /* LaunchScreen.storyboard in Resources */,
 				F1ED7BBD25E245A700184843 /* Main.storyboard in Resources */,
 				F1ED7BA725E21E4C00184843 /* Assets.xcassets in Resources */,
@@ -166,7 +166,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1ED7BB825E2452D00184843 /* prefectureTableViewCell.swift in Sources */,
+				F1ED7BB825E2452D00184843 /* PrefectureTableViewCell.swift in Sources */,
 				F1ED7BA225E21E4C00184843 /* ViewController.swift in Sources */,
 				F1ED7B9E25E21E4C00184843 /* AppDelegate.swift in Sources */,
 				F1ED7BA025E21E4C00184843 /* SceneDelegate.swift in Sources */,
